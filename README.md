@@ -61,7 +61,7 @@ I am a **Software Engineering student** and a **freelance developer** dedicated 
 ---
 
 ### [ 04. CONTACT ]
-- **Email** | [hye-ji-park@protonmail.com](mailto:hye-ji-park@pm.me)
+- **Email** | [hye-ji-park@pm.me](mailto:hye-ji-park@pm.me)
 - **Discord** | [Park Hye-ji](https://www.discord.com/users/1487038876575989800)
 - **Portfolio** | [Visit Portfolio](https://aiden-park-portfolio.netlify.app/)
 
