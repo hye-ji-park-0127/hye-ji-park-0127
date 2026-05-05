@@ -50,13 +50,10 @@ I am a **Software Engineering student** and a **freelance developer** dedicated 
 ---
 
 ### [ 03. GITHUB STATS ]
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hye-ji-park-0127&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Hye-ji's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hye-ji-park-0127&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
+![Hye-ji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hye-ji-park-0127&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-ji-park-0127&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
